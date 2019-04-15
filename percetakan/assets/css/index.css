@@ -1,0 +1,25 @@
+.tulisan {
+  font-size: 0.8em;
+}
+
+.margin-bawah {
+  margin-bottom: 5%;
+}
+
+.border {
+  padding: 2% 2% 2% 2%;
+  margin-bottom: 2%;
+  background-color: #f1f2f6;
+}
+
+.buku {
+  padding: 1% 1% 1% 1%;
+}
+
+.buku:hover {
+  background-color: white !important;
+}
+
+.tombol {
+  color: white;
+}

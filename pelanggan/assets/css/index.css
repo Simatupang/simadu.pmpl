@@ -1,0 +1,16 @@
+.konten {
+  font-size: 10pt;
+}
+
+.jarak {
+  margin-bottom: 3%;
+}
+
+a,a:hover {
+  text-decoration: none;
+}
+
+.item:hover {
+  background-color: #f5f6fa;
+  opacity: 0.8;
+}

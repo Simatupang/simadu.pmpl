@@ -1,0 +1,21 @@
+.tambah {
+  width: 100px;
+  height: 100px;
+  font-size: 30px;
+}
+
+.card:hover {
+  opacity: 0.8;
+}
+
+.card-body {
+  font-size: 10pt;
+}
+
+.act {
+  color:  white;
+}
+
+.line {
+  margin-bottom: 3%;
+}

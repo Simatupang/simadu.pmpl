@@ -1,0 +1,12 @@
+#ignore all file pdf
+pelanggan/uploads/buku/*.pdf
+pelanggan/uploads/sampul/*.pdf
+pelanggan/uploads/bukti/*.png
+pelanggan/uploads/bukti/*.jpg
+pelanggan/uploads/bukti/*.jpeg
+pelanggan/uploads/bukti/*.gif
+percetakan/uploads/profil/*.png
+percetakan/uploads/profil/*.jpg
+percetakan/uploads/profil/*.jpeg
+percetakan/uploads/profil/*.gif
+
